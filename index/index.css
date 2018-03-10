@@ -513,7 +513,7 @@ body {
 	left: 0;
 	width: 224px;
 	height: 100%;
-	background: #fff;
+	background: #333333;
 	box-shadow: 0 0 18px 0 #d4dee6
 }
 
@@ -614,7 +614,7 @@ body {
 
 .menu {
 	width: 100%;
-	height: calc(100% - 120px - 68px);
+	height: calc(100% - 120px - 0px);
 	overflow: scroll;
 }
 
